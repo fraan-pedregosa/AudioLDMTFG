@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch<2.1.0
+librosa
+transformers
+git+https://github.com/huggingface/diffusers.git
